@@ -1,1 +1,1 @@
-# 100 Beginners JS Projects
+# Beginners JS Projects
